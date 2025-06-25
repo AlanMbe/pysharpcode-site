@@ -91,4 +91,9 @@ body {
     border-radius: 5px;
     text-decoration: none;
   }
+
+  .developername {
+    text-align: left;
+    color: #ffffff;
+  }
   
